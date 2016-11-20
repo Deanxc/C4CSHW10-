@@ -1,0 +1,4 @@
+Host github
+	HostName github.com
+	User deanxc
+	IdentityFile ~/.ssh/deanxc_rsa
